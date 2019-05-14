@@ -34,7 +34,7 @@ param(
  $resourceGroupName = 'test-sqlag02-rg',
 
  [string]
- $resourceGroupLocation = 'eastasia',
+ $resourceGroupLocation = 'southeastasia',
 
  #[Parameter(Mandatory=$True)]
  [string]
