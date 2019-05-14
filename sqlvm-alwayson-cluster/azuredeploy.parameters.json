@@ -21,10 +21,10 @@
          "value":"Standard_LRS"
       },
       "sqlStorageAccountName":{  
-         "value":"GEN-UNIQUE"
+         "value":"testsqlagsa01"
       },
       "dcStorageAccountName":{  
-         "value":"GEN-UNIQUE"
+         "value":"testsqlagsa02"
       },
       "adVMSize":{  
          "value":"Standard_D1_v2"
